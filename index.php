@@ -10,6 +10,9 @@
 			<nav><a href="">-画像一覧</nav>
 		</header>
 		<section>
+			<form>
+				<input name="" type="file" multiple>
+			</form>
 		</section>
 	</body>
 </html>
